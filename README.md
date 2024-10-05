@@ -18,6 +18,18 @@ EduTrade is a cutting-edge simulated stock trading platform where users can trad
 
 ---
 
+## 🖼️ Screenshots
+
+Add your app screenshots here once you're ready!
+
+- **Dashboard**![Dashboard](screenshots/dashboard.png)
+- **Stock Page**![Stock Page](screenshots/stock_page.png)
+- **Leaderboard**![Leaderboard](screenshots/leaderboard.png)
+- **Dark Mode - Dashboard**![Dark Mode Dashboard](screenshots/dark_mode_dashboard.png)
+- **Dark Mode - Stock Page**![Dark Mode Stock Page](screenshots/dark_mode_stock_page.png)
+- **Dark Mode - Leaderboard**![Dark Mode Leaderboard](screenshots/dark_mode_leaderboard.png)
+
+---
 ## 🛠️ Getting Started
 
 Follow these instructions to get a copy of the project up and running locally.
@@ -87,18 +99,6 @@ EduTrade exposes a variety of API endpoints for interacting with users, stocks, 
 
 ### Leaderboard
 - GET /api/leaderboard: Get the top-performing users based on portfolio value
-
----
-## 🖼️ Screenshots
-
-Add your app screenshots here once you're ready!
-
-- **Dashboard**![Dashboard](screenshots/dashboard.png)
-- **Stock Page**![Stock Page](screenshots/stock_page.png)
-- **Leaderboard**![Leaderboard](screenshots/leaderboard.png)
-- **Dark Mode - Dashboard**![Dark Mode Dashboard](screenshots/dark_mode_dashboard.png)
-- **Dark Mode - Stock Page**![Dark Mode Stock Page](screenshots/dark_mode_stock_page.png)
-- **Dark Mode - Leaderboard**![Dark Mode Leaderboard](screenshots/dark_mode_leaderboard.png)
 
 ---
 
